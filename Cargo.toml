@@ -2,5 +2,6 @@
 name = "lytelog"
 version = "0.1.0"
 edition = "2021"
+authors = ["Ryan Glass <ryan.ocan.glass1@gmail.com>"]
 
 [dependencies]
