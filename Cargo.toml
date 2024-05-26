@@ -3,5 +3,11 @@ name = "lytelog"
 version = "0.1.0"
 edition = "2021"
 authors = ["Ryan Glass <ryan.ocan.glass1@gmail.com>"]
+description = "A lyteweight rust logger"
+documentation = "https://docs.rs/lytelog"
+repository = "https://github.com/Celestialchips/lytelog"
+readme = "README.md"
+license = "MIT"
+keywords = ["logger", "tasks", "lightweight-logger"]
 
 [dependencies]
